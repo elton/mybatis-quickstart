@@ -5,29 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfdc693f-1f0c-4a55-8a56-c2d3a3bc0bfb" name="变更" comment="&#10;&#10;# 50-character subject line:&#10;# - &lt;type&gt;[(optional scope)]: &lt;subject&gt;&#10;#&#10;# 72-character wrapped longer description. This should answer:&#10;# - Why was this change necessary?&#10;# - How does it address the problem?&#10;# - Are there any side effects?&#10;#&#10;# ---------------------------------------------------------------------&#10;# Conventional Commits:&#10;# A specification for adding human and machine readable meaning to&#10;# commit messages. https://www.conventionalcommits.org&#10;# ---------------------------------------------------------------------">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-quickstart/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-quickstart/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-quickstart/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-quickstart/src/main/java/ink/pwr/mybatis/quickstart/QuickStartApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-quickstart/src/main/java/ink/pwr/mybatis/quickstart/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-quickstart/src/main/java/ink/pwr/mybatis/quickstart/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-quickstart/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-quickstart/src/main/resources/db/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-quickstart/src/main/resources/db/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-quickstart/src/test/java/ink/pwr/mybatis/quickstart/SampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-quickstart/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +68,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager" selected="JUnit.SampleTest">
     <configuration name="data.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <script-file value="$PROJECT_DIR$/mybatis-quickstart/src/main/resources/db/data.sql" />
@@ -144,7 +128,7 @@
       <updated>1654908530055</updated>
       <workItem from="1654908531157" duration="621000" />
       <workItem from="1654909163528" duration="95000" />
-      <workItem from="1654909266921" duration="6303000" />
+      <workItem from="1654909266921" duration="6376000" />
     </task>
     <servers />
   </component>
