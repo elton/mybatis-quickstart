@@ -1,0 +1,11 @@
+# Datasource Configuration
+Spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/mybatis?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: root
+
+# Logger Configuration
+logging:
+  level:
+    ink.pwr.mybatis: debug
